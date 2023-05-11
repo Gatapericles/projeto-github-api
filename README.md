@@ -28,6 +28,8 @@ Caso o usuário não escreva nada na barra de pesquisa, vai estourar um 'Alert' 
 <img src="./src/Gifs/GitHub.API%20MOBILE.gif">
 </p>
 
+Link do projeto no GitHub-pages: https://gatapericles.github.io/projeto-github-api/
+
 ## **O QUE FOI UTILIZADO NA CRIAÇÃO DO SITE 🖊️**
 
  - HTML 5
