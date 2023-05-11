@@ -1,4 +1,4 @@
-import { baseUrl, eventsQuantity } from "/src/JavaScript/variables.js";
+import { baseUrl, eventsQuantity } from "../variables.js";
 
 // Importando essa variável do variables.js para utilizar o '${}' abaixo 
 

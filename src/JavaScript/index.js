@@ -1,12 +1,12 @@
 // Import FETCH
-import {getUser} from '/src/JavaScript/services/user.js'
-import {getRepositories} from '/src/JavaScript/services/repositories.js'
-import { getEvents } from '/src/JavaScript/services/events.js'
+import {getUser} from './services/user.js'
+import {getRepositories} from './services/repositories.js'
+import { getEvents } from './services/events.js'
 
 // Import de objeto
 
-import {user} from '/src/JavaScript/objects/user.js'
-import {screen} from '/src/JavaScript/objects/screen.js'
+import {user} from './objects/user.js'
+import {screen} from './objects/screen.js'
 
 const button = document.getElementById("btn-search");
 const input = document.getElementById("input-search");

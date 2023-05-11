@@ -1,4 +1,4 @@
-import {baseUrl} from '/src/JavaScript/variables.js'
+import {baseUrl} from "../variables.js"
 
 // Importando essa variável do variables.js para utilizar o '${}' abaixo 
 //                                    ⬇
